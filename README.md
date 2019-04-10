@@ -11,6 +11,7 @@
 
 [![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
 
+[High Fidelity Youtube](https://youtu.be/eqxtROYaqAM)
 ---
 
 ## Part A: Usability Evaluation
