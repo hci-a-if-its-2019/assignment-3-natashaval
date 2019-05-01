@@ -284,11 +284,11 @@ Code format for line-number: X - YY where
 
 ### Sketch
 
-![Sketch1](sketch/New Doc 2019-05-02 01.25.44_1.jpg)
-![Sketch2](sketch/New Doc 2019-05-02 01.25.44_2.jpg)
-![Sketch3](sketch/New Doc 2019-05-02 01.25.44_3.jpg)
-![Sketch4](sketch/New Doc 2019-05-02 01.25.44_4.jpg)
-![Sketch5](sketch/New Doc 2019-05-02 01.25.44_5.jpg)
+![Sketch1](sketch/sketch1.jpg)
+![Sketch2](sketch/sketch2.jpg)
+![Sketch3](sketch/sketch3.jpg)
+![Sketch4](sketch/sketch4.jpg)
+![Sketch5](sketch/sketch5.jpg)
 
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
@@ -302,4 +302,5 @@ Nevertheless, both of their opinions which is not contradictory can be combined 
 > You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
 
 [High Fidelity Prototype Version 2](https://invis.io/NGR8KOQUQA7#/361033052_6productlist_V2)
+<br />
 [High Fidelity Youtube Link](https://youtu.be/Hsxvau8Wpp4)
