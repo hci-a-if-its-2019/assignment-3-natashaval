@@ -27,20 +27,43 @@
 > their skill level in using the system, and your reasons choosing them.
 > The description should NOT contain any personally identifiable information.
 
-#### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+#### a. Description of Participant 1 🙋
+ - Female user of Indonesia origin aged about 40 years old.
+ - Her occupation as office worker.
+ - She prefers to online shop using mobile application and never open via website browser.
+ - She is already familiar with Shopee e-commerce.
+ - She usually buy online products once a month, mainly Home and Living category.
+ - She is choosen as my participant because she is already familiar with the system and often does shopping in the platform.
 
-#### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+#### b. Description of Participant 2 🐼
+- Female user of Indonesia origin aged about 17 years old.
+- She is a high school student in Surabaya.
+- She never do online shop on her own.
+- She is already familiar with Shopee e-commerce only in searching products.
+- My reasons in choosing her as my participant are difference in age gaps and never do online shopping.
+
 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
+
+Instruction on buy a product in Shopee:
+1. On product listing page, Buy an Oppo F9 RAM 4 GB Variant Red.
+Additional questions:
+    - Do you agree if official store or partner store is placed at top of the product listing?
+    - Do you prefer Ads listed in a row or scattered around?
+    - How many items would you prefer to be listed? Infinite scrolling or limited (actual Shopee page is 50 products per page) ?
+    - In the 'Shipped From' in sidebar, would you prefer write and search city / province or only select from list?
+2. On product detail page, look around the page and after that Buy Now.
+    - Are you satisfied with the placing of product images?
+    - On choosing product variant, would you rather choose from a dropdown or a clickable text button?
+3. On cart page, review the placing of the items to be bought, apply a voucher code of Gratis Ongkir, and Checkout.
+    - Are you satisfied with the placing of product details? Is there any detail missed out?
+    - If you want to change variant, would you rather go back to the product detail page or change it directly from variant arrow?
+    - For order summary, would you rather place it in the right side of the page or at the bottom of the page?
+    - If you want to delete a product from cart list, would you prefer a big cross icon or a small trash icon?
+4. On checkout page, review the products, shipping address, and price. Review the voucher code used and choose payment method with credit card.
+    - For order summary, would you rather place it in the right side of the page or at the bottom of the page?
+    - Are you satisfied with the placing of shipping address?
+    - In shipping methods, for products from different store, would you rather to choose it one by one or in one checkout is shipped with the same courier service?
 
 ### 3. Transcript
 > Provide a summary of what the participant did and said, and what you did and said.
