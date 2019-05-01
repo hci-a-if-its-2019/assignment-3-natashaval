@@ -75,7 +75,7 @@ Additional questions:
 > Ensure to write down all the actions on the device, whether correct or wrong.
 > Remember to supplement the transcript with time-codes or line-numbers.
 
-#### a. Transcript with Participant 1
+#### a. Transcript with Participant 1 (17 minutes 58 seconds)
 
 😄 Natasha
 🙋 Participant 1
@@ -98,6 +98,7 @@ Additional questions:
  16. 😄: "Baiklah. Selanjutnya, belilah Oppo F9 RAM 4GB warna merah."
 
  ===== (diarahkan ke halaman detail produk) =====
+
  17. 😄: "Dari halaman *produk details* ini, apakah setuju dengan penempatan tempat gambar di sebelah kiri dan juga dengan thumbnailnya?"
  18. 🙋: "*Thumbnail* itu yang gambar kecil dibawahnya?"
  19. 😄: "Ya benar, apakah merasa terganggu?"
@@ -225,34 +226,46 @@ Additional questions:
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
-#### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+Code format for line-number: X - YY where 
+- X is the Participant, A is for Participant 1 and B is for Participant 2
+- YY is the line numbers from transcript
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or probl ems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+#### OBSERVATION 1
+![Prototype Screen 1](prototype/6productlist_v1.JPG)
+
+ - **Reference**: Ads (A5 - A9 & B7 - B9) and Search Bar (A15)
+ - **Feedback**: For ads, it is not clearly shown to the participants view. While for search bar, participant 1 prefer to only click rather than to type again.
+ - **Incidence**: -
+ - **Reason**: -
+ - **Resolution**: Ads should be put at the first row of the page and search bar should be available for type, filter and checklist.
  
 #### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+![Prototype Screen 2](prototype/1productdetails_v1.JPG)
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+ - **Reference**: Variant (A22 & B22 - B25)
+ - **Feedback**: They prefer to directly click on button list rather than a dropdown list.
+ - **Incidence**: Click on variant dropdown.
+ - **Reason**: Need to click twice for dropdown to open, read the list, and choose the variant.
+ - **Resolution**: Change dropdown in variant to a button list of available variants.
  
 #### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+![Prototype Screen 3](prototype/2cart_v1.JPG)
 
- - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
+ - **Reference**:  Cross icon to delete (A26 - A33)
+ - **Feedback**: It confused the participant what is the difference between cross icon and minus icon in quantity. 
+ - **Incidence**: Click on minus icon repeatedly to remove many items.
+ - **Reason**: The participant does not know the difference between cross icon and minus icon while they share the same functionality (only differ in quantity change). The participant also does not know what is the meaning of the icon.
+ - **Resolution**: Change big red cross icon to a small trash icon with description text of 'Hapus'
  
- ... and so on ...
+ #### OBSERVATION 4
+![Prototype Screen 4](prototype/3voucher_1.JPG)
+
+ - **Reference**:  Voucher Code (A43 & B43)
+ - **Feedback**: It is not necessary to enter voucher code because it is hard to remember the phrase (code).
+ - **Incidence**: Mistype the voucher code and the voucher not showing. Have to go back to promo page.
+ - **Reason**: It is hard to remember the voucher code presented in other page (promo page). Participant have to go back and forth if there is a mistype in the code.
+ - **Resolution**: Remove entirely 'Enter voucher code' section.
+ 
  
  ---
 
