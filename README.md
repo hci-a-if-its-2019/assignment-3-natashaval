@@ -80,10 +80,75 @@ Additional questions:
 😄 Natasha
 🙋 Participant 1
 
- 1. 😄 : Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 2. 🙋: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 3. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 4. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 1. 😄 : "Untuk wawancara pada hari ini, saya akan menunjukkan hasil prototipe dari Shopee yang telah saya buat mengenai alur pembelian sebuah produk. Silahkan di-*review* terlebih dahulu halaman pertama yang berisi daftar produk setelah melakukan pencarian."
+ 2. 😄: "Satu, menurut partisipan apakah tata letak untuk *official store*, toko yang sesuai dengan pencarian, apakah sudah sesuai? Apakah memuaskan?"
+ 3. 🙋: "Ditampilkan aja biar bisa jelas. Soalnya kan kalau memilih tokonya ga jelas kan kurang percaya."
+ 4. 😄: "Kemudian untuk iklan dari produk yang sudah ada, iklannya lebih baik satu baris atau diletakkan secara random? Biasanya iklan akan tertulis 'Iklan' atau 'Ads'."
+ 5. 🙋: (mencari yang bertanda iklan) "Iklannya dimana? Yang warna abu-abu ini?"
+ 6. 😄: "Iya, menurut partisipan lebih baik iklannya ditampilkan di atas atau secara random?"
+ 7. 🙋: "Iklan itu maksudnya gimana ya?"
+ 8. 😄: " Jadi dari pihak Shopee biasanya akan menjual iklan. Misalkan ada sebuah toko yang menjual produk, bisa saja produknya terletak di halaman ketiga dan tidak sampai dicari oleh pengguna. Jadi pihak Shopee akan menawarkan iklan kepada toko itu untuk menaruh iklan di posisi-posisi tertentu."
+ 9. 🙋: "Ya pasti tokonya minta ditaruh di atas. Soalnya kan dia bayar buat ditaruh di atas."
+ 10. 😄: "Jadi lebih baik ditaruh di paling atas?"
+ 11. 🙋: "Iya."
+ 12. 😄: "Tetapi biasanya ketika pengguna sudah tahu iklan diletakkan di bagian paling atas, bagian paling atas akan mudah dilewati untuk mencari barang-barang yang lebih relevan di bawah."
+ 13. 🙋: "Ya tapi dari semua itu, kan pasti lebih banyak yang baca dari atas dulu."
+ 14. 😄: "Lanjut. Di bagian samping kiri dapat memilih kategori dan dikirim dari mana yang bertuliskan *Shipped From*. Di Shopee yang sebenarnya itu biasanya hanya memilih dari pilihan yang ada kemudian dicentang, kalau di prototipe ini disediakan tempat untuk mengetikkan kata-kata. Apakah lebih baik mengetik sendiri dan menfilter dari list yang ada atau langsung mencentang dari yang sudah ada."
+ 15. 🙋: "Lebih baik bisa dipilih ya, jadi kan ga banyak ketikan kaya gitu. Jadi kan ga harus mengetik panjang-panjang tinggal mencari pilihannya disini."
+ 16. 😄: "Baiklah. Selanjutnya, belilah Oppo F9 RAM 4GB warna merah."
+
+ ===== (diarahkan ke halaman detail produk) =====
+ 17. 😄: "Dari halaman *produk details* ini, apakah setuju dengan penempatan tempat gambar di sebelah kiri dan juga dengan thumbnailnya?"
+ 18. 🙋: "*Thumbnail* itu yang gambar kecil dibawahnya?"
+ 19. 😄: "Ya benar, apakah merasa terganggu?"
+ 20. 🙋: "Iya gapapa, ga masalah."
+ 21. 😄: "Nah kemudian jika memilih varian, lebih baik variannya dipilih dalam bentuk list tertulis ke bawah seperti varian *red, blue, purple* dengan tulisan kebawah atau langsung diklik dari sebuah tombol. Jadi nanti semua variannya akan tertera kesamping."
+ 22. 🙋: "Sepertinya lebih baik variannya kesamping. Saya sih lebih senang nge-klik tombol. Jadi ga usah milih kesini, lebih senang milih dalam bentuk gambar."
+ 23. 😄: "Kemudian Buy Now."
+
+===== (diarahkan ke halaman *Shopping Cart*) =====
+
+24. 😄: "Untuk halaman *shopping cart* ini, apakah setuju dengan peletakkan dari *produk details* yang ada. *Produk details* terdiri dari nama barang, toko, dan harga satuan. Kemudian ke samping tertera varian, kuantitas, dan harga total. Apakah ada masalah? Seperti kurang besar atau bagaimana?"
+25. 🙋: "Sepertinya sudah baik, bisa membandingkan antar 2 produk."
+26. 🙋: (mengarahkan kursor ke tanda silang merah dan ke tanda minus dibagian kuantitas) "Ini apa bedanya sama ini?"
+27. 😄: "Yang tombol minus di kuantitas itu untuk mengurangi kuantitas. Jika awalnya satu, kemudian dikurangi jadi 0 maka barang akan terhapus sama seperti silang."
+28. 🙋: "Oh berarti jika isinya 10, langsung disilang aja ga usah minus-minus."
+29. 😄: "Jadi jika ingin menghapus sebuah produk, lebih setuju dalam bentuk silang merah besar atau cukup gambar *trash icon* tapi kecil jadi tidak terlihat signifikan."
+30. 🙋: "Kalau dikasih kata 'hapus' bagaimana ya? Jadi kan ga bingung. Apa bedanya kalau misalnya saya beli 10, kan langsung centang ini" (mengarahkan ke tanda silang) "tapi kalau beli 1, centang ini kan bisa gitu." (mengarahkan ke tanda minus di Qty).
+31. 🙋: "Kalau ini dikasih klik kemudian tulisan yang menunjukkan 'Hapus' bagaimana ya?"
+32. 😄: "Jadi diganti kata. Ber arti lebih senang kata-kata daripada gambar?"
+33. 🙋: "Iya, karena membingungkan seperti ini."
+34. 😄: "Jika ingin mengganti varian lebih baik diganti di cart ini atau kembali ke produk yang ada?"
+35. 🙋: "Ya gapapa seperti ini, supaya ga ke halaman depan."
+36. 😄: "Untuk lokasi *Order Summary* yang ada di sebelah kanan ini, apakah lebih baik diletakkan di paling bawah *produk details* atau ditaruh di sebelah kanan biar tidak di-*scroll* ke bawah?"
+37. 🙋: "Sebentar, kalau misalkan saya membeli 10 item, apakah dia akan mengikuti terus? Misalkan 10 item di-*scroll* kebawah, apakah dia akan mengikuti terus?" (mengarahkan kursor ke bagian *Order Summary*)
+38. 😄: "Iya."
+39. 🙋: "Iya, gapapa seperti ini aja. Soalnya kalau ditampilkan di bawah, saya harus *scroll* ke bawah dulu baru melihat ke bawah. Saya lebih setuju di kanan sih."
+40. 😄: "Lalu aplikasikan kode voucher gratis ongkir."
+41. 🙋: (mengarahkan ke tombol Apply di sebelah Voucher Code)
+42. 😄: "Apakah setuju jika ada daftar dari kode voucher yang sudah dimiliki kemudian ada juga pilihan untuk mengisi voucher code seperti di atas?"
+43. 🙋: "Saya tidak setuju soalnya orang ga gampang mengingat kata-katanya. Misalkan ada promo, kan harus nginget dan harus ngetik apa. Kalau ngetik salah sedikit saja, ga keluar vouchernya."
+44. 😄: "Kemudian klik OK, dan Checkout produk."
+
+===== (diarahkan ke halaman Checkout) =====
+
+45. 😄: "Untuk bagian terakhir, apakah tetap setuju jika *Order Summary* diletakkan di sebelah kanan? Yang di Shopee terletak di bawah seperti ini, menggantung jika di-*scroll* akan menutup bagian bawah dan akan menempel jika sudah sesuai tempatnya dibagian bawah produk."
+46. 🙋: "Ya enak sebelah kanan ya, lebih gampang melihatnya. Kalau di-*scroll*, dia akan ikut terus kan?"
+47. 😄: "Ya akan tetap ikut."
+48. 😄: "Untuk pemilihan alamat pengiriman yang ada di bagian atas ini, lebih baik dibuat pilihan atau cukup mengganti sesuai yang dipilih. Misalkan saya memiliki 3 alamat yang bisa dituju, apakah lebih baik mencentang salah satu atau hanya menampilkan satu yang dituju?"
+49. 🙋: (mengarahkan ke tombol Change di sebelah alamat tertera) "Ga papa, tampilin aja salah satu. Kan ada 'Change' disini untuk mengganti alamatnya."
+50. 😄: "Untuk produk detail kan saya memiliki metode pengiriman. Apakah lebih setuju untuk produk-produk dari toko yang berbeda dapat memilih kurir yang berbeda atau untuk setiap order langsung memilih satu kurir yang sama meskipun berbeda toko."
+51. 🙋: "Ya saya ga masalah yang manapun karena dari Shopee sudah ada Free Ongkir jadi memilih yang paling murah. Saya baru *notice* jika ada selisih harga yang besar. Promonya kan harusnya gratis tapi kenapa keluar gede banget. Baru saya lihat lagi."
+52. 😄: "Maksud saya adalah menggabungkan produk yang dibeli dari toko berbeda dengan jenis pengiriman yang sama."
+53. 🙋: "Oh ya jangan, kalau misalkan saya membeli toko Surabaya dan membeli barang makanan dan bisa dikirim GO-SEND ya saya pasti memilih yang GO-SEND agar makanannya tidak busuk. Jadi ya lebih mending satu-satu."
+54. 😄: "Baiklah kalau begitu."
+55. 😄: "Kemudian memilih cara pembayaran."
+56. 🙋: (memilih Pay Now) "Iya, lalu?"
+57. 😄: "Apakah ada masalah jika menuliskan kartunya disini dan waktu expirednya kemudian menggantinya? Apakah lebih baik diisi melalui profil pengguna saja?"
+58. 🙋: "Engga, ga masalah."
+59. 😄: "Terakhir, klik Place Order."
+60. 😄: "Terima kasih karena telah bersedia mencari partisipan dalam wawancara saya mengenai prototipe dari halaman Shopee."
+
 
 
 #### b. Transcript with Participant 2 (9 minutes 37 seconds)
