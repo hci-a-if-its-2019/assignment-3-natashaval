@@ -231,7 +231,7 @@ Code format for line-number: X - YY where
 - YY is the line numbers from transcript
 
 #### OBSERVATION 1
-![Prototype Screen 1](prototype/6productlist_v1.JPG)
+![Prototype Screen 1](prototype/6productlist_v1.jpg)
 
  - **Reference**: Ads (A5 - A9 & B7 - B9) and Search Bar (A15)
  - **Feedback**: For ads, it is not clearly shown to the participants view. While for search bar, participant 1 prefer to only click rather than to type again.
@@ -266,6 +266,15 @@ Code format for line-number: X - YY where
  - **Reason**: It is hard to remember the voucher code presented in other page (promo page). Participant have to go back and forth if there is a mistype in the code.
  - **Resolution**: Remove entirely 'Enter voucher code' section.
  
+ #### OBSERVATION 5
+![Prototype Screen 4](prototype/4payment_v1.JPG)
+
+ - **Reference**:  Cross icon to delete (A33) and Shipping Method (B51)
+ - **Feedback**: It confuses participant what is the meaning of cross icon. Shipping method should be grouped per one order only one courier to make it easy.
+ - **Incidence**: -
+ - **Reason**: -
+ - **Resolution**: Change big red cross icon to a small trash icon with description text of 'Hapus'. While the shipping method will not be changed because it requires to differentiate based on urgency of the products (ex: food)
+ 
  
  ---
 
@@ -274,16 +283,23 @@ Code format for line-number: X - YY where
 > based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
 
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+![Sketch1](sketch/New Doc 2019-05-02 01.25.44_1.jpg)
+![Sketch2](sketch/New Doc 2019-05-02 01.25.44_2.jpg)
+![Sketch3](sketch/New Doc 2019-05-02 01.25.44_3.jpg)
+![Sketch4](sketch/New Doc 2019-05-02 01.25.44_4.jpg)
+![Sketch5](sketch/New Doc 2019-05-02 01.25.44_5.jpg)
 
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
 > and how it is reflected in your design.
 
+From usability evaluation on two participants, every comment that they gives are valuable, however, not all opinion and suggestion can be implemented in the design. For example is the shipping method, while the first participant want it to be separated, the other want to be joined. In the end, I should choose a resolution which is more rational.
+Nevertheless, both of their opinions which is not contradictory can be combined to make a better intuitive design. For example in side bar of Shipped from, the first opinion to select from a list can be combined with a filtered search from input text within the second opinion.
+
 ### High-Fidelity Interactive-Prototype
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
 > You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+
+[High Fidelity Prototype Version 2](https://invis.io/NGR8KOQUQA7#/361033052_6productlist_V2)
+[High Fidelity Youtube Link](https://youtu.be/Hsxvau8Wpp4)
